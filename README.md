@@ -6,14 +6,13 @@
 <div align="center">
   
   <a href="https://github.com/Davyusow">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="Davyusow's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="Davyusow's GitHub Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Davyusow's GitHub Stats" />
   <img width="600" height="195" src="https://streak-stats.demolab.com?user=Davyusow&theme=gruvbox&hide_border=false" alt="Davyusow's GitHub Stats" />
 
 </div>
 
 ##
-
 
 <div style="display: inline_block" align="center">
 
@@ -31,3 +30,6 @@
     <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 </div>
+
+##
+
