@@ -22,6 +22,7 @@
 <h2> Gruvbox lover ♥️ (and i use arch btw ☝️🤓)<br> Studying -> Shell Script 💲, Docker 🐳
   
 <br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,maven,html,css,mysql,docker&perline=14)](https://skillicons.dev)
 </div>
