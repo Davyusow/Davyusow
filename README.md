@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&letterSpacing=1px&pause=1000&color=689D6A&background=211F1E00&multiline=true&width=600&height=100&lines=%24+whoami+%23%3F;%24+davyusow!;%24+probably+a+back+end+nerd+%3E%3E+cat+this.txt%3F)](https://git.io/typing-svg)
 
 <div align="center">
   <h1>Data to my stalkers 👇</h1>
@@ -6,32 +7,21 @@
 <div align="center">
   
   <a href="https://github.com/Davyusow">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="Davyusow's GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Davyusow's GitHub Stats" />
-  <img width="600" height="195" src="https://streak-stats.demolab.com?user=Davyusow&theme=gruvbox&hide_border=false" alt="Davyusow's GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="Davyusow's GitHub Stats" /><br>
+
+<img height="184" src="https://streak-stats.demolab.com?user=Davyusow&theme=gruvbox&hide_border=true&count_private=true" alt="Davyusow's GitHub Stats" /><br>
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Davyusow's GitHub Stats" /><br>
 
 </div>
 
-##
+---
 
-<div style="display: inline_block" align="center">
+<div align="center">
 
-### Gruvbox lover ♥️ (and i use arch btw ☝️🤓)
-### Studying -> Haskell, Docker
-  <br>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-          
+<h2> Gruvbox lover ♥️ (and i use arch btw ☝️🤓)<br> Studying -> Shell Script 💲, Docker 🐳
+  
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,maven,html,css,mysql,docker&perline=14)](https://skillicons.dev)
 </div>
-
-##
-
