@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ (and i use arch btw ☝️🤓)<br> Studying -> Shell Script 💲, Docker 🐳
+<h2> Gruvbox lover ♥️ <br> Studying -> Shell Script 💲, Docker 🐳
   
 <br>
 <br>
