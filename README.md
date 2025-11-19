@@ -10,6 +10,8 @@
 
 <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Davyusow's GitHub Stats">
 
+<img height="184" src="https://streak-stats.demolab.com?user=Davyusow&theme=gruvbox&hide_border=true&count_private=true" alt="Davyusow's GitHub Stats"/>
+
 </div>
 
 ---
