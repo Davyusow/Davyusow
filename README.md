@@ -16,6 +16,12 @@
 
 ---
 
+<!--START_SECTION:waka-->
+LOCALE
+<!--END_SECTION:waka-->
+
+---
+
 <div align="center">
 
 <h2> Gruvbox lover ♥️ <br> Studying -> Shell Script 💲, Docker 🐳
