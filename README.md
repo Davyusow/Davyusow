@@ -17,7 +17,6 @@
 ---
 
 <!--START_SECTION:waka-->
-LOCALE
 <!--END_SECTION:waka-->
 
 ---
