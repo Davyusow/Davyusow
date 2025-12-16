@@ -93,5 +93,5 @@ Linux                    28 hrs 48 mins      ███████████�
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,maven,html,css,mysql,docker&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,go,maven,html,css,mysql,docker)](https://skillicons.dev)
 </div>
