@@ -4,8 +4,6 @@
   <h1>Data to my stalkers 👇</h1>
 </div>
 
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2052%20mins-blue)
 
