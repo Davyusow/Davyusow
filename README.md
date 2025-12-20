@@ -4,14 +4,6 @@
   <h1>Data to my stalkers 👇</h1>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Davyusow&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="Davyusow's GitHub Stats" />
-<br>
-<img src="https://streak-stats.demolab.com?user=Davyusow&theme=gruvbox&hide_border=true&count_private=true&card_width=500" alt="Davyusow's GitHub Stats"/>
-<br>
-</div>
-
 ---
 
 <!--START_SECTION:waka-->
