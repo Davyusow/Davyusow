@@ -89,7 +89,7 @@ Linux                    18 hrs 46 mins      ███████████�
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying -> Shell Script 💲, GO 🐹
+<h2> Gruvbox lover ♥️ <br> Studying -> Python 🐍, Spring 🍃
   
 <br>
 <br>
