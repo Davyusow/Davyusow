@@ -79,7 +79,7 @@ Linux                    30 hrs 32 mins      ███████████�
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying -> Python 🐍, Spring 🍃
+<h2> Gruvbox lover ♥️ <br> Studying -> CSS 🎨, Spring 🍃
   
 <br>
 <br>
