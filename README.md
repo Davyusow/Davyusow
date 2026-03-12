@@ -79,7 +79,7 @@ Linux                    31 hrs 30 mins      ███████████�
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying → Java ☕
+<h2> Gruvbox lover ♥️ <br> Studying → GO 🐹
   
 <br>
 <br>
