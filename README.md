@@ -84,7 +84,7 @@ Linux                    15 hrs 19 mins      ███████████�
 <br>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,spring,maven,go,html,css,mysql,docker&perline=8)](https://skillicons.dev) -->
-<img src="https://skills.syvixor.com/api/icons?perline=8&i=arch,vscodium,zed,obsidian,md,git,bash,c,haskell,python,java,spring,maven,go,html,css,mysql,postgresql,docker,curl,insomnia," alt="My skills2">
+<img src="https://skills.syvixor.com/api/icons?perline=11&i=arch,vscodium,zed,obsidian,md,git,bash,c,haskell,python,java,spring,maven,go,html,css,mysql,postgresql,docker,curl,insomnia," alt="My skills2">
 
 </div>
 
