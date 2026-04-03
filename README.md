@@ -80,7 +80,7 @@ Linux                    30 hrs 25 mins      ███████████�
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying → TypeScript ⚡
+<h2> Gruvbox lover ♥️ <br> Studying → JavaScript ⚡️
   
 <br>
 
