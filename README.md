@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -19,61 +19,12 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                958 commits         ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-🌃 Evening                1214 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  1063 commits        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   677 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Tuesday                  526 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Friday                   483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Sunday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Recife
-
-💬 Programming Languages: 
-Markdown                 14 hrs 13 mins      ███████████████░░░░░░░░░░   61.35 % 
-RGBDS Assembly           5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Assembly                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Text                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Go                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-
-🔥 Editors: 
-Obsidian                 13 hrs 54 mins      ███████████████░░░░░░░░░░   59.99 % 
-Sublime Text             7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Zed                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🐱‍💻 Projects: 
-estudos-5-periodo        13 hrs 54 mins      ███████████████░░░░░░░░░░   59.99 % 
-restaurante-asm          7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Estudos-Go               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-sara-site-backend        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-
-💻 Operating System: 
-Linux                    23 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 12:05:05 UTC
+ Last Updated on 15/05/2026 12:05:47 UTC
 <!--END_SECTION:waka-->
 
 ---
