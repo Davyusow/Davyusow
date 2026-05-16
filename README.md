@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -19,12 +19,61 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                958 commits         ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+🌃 Evening                1214 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌙 Night                  1063 commits        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   677 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Tuesday                  526 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Sunday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Recife
+
+💬 Programming Languages: 
+Markdown                 13 hrs 38 mins      █████████████████████░░░░   85.70 % 
+V                        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Go                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+🔥 Editors: 
+Obsidian                 13 hrs 38 mins      █████████████████████░░░░   85.69 % 
+Sublime Text             1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Zed                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+
+🐱‍💻 Projects: 
+estudos-5-periodo        13 hrs 38 mins      █████████████████████░░░░   85.69 % 
+estudos-verilog          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Estudos-Go               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Estudos-C                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+💻 Operating System: 
+Linux                    15 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 12:05:47 UTC
+ Last Updated on 16/05/2026 04:40:14 UTC
 <!--END_SECTION:waka-->
 
 ---
