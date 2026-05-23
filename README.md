@@ -17,62 +17,12 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                958 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-🌃 Evening                1214 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌙 Night                  1065 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   678 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Tuesday                  526 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Wednesday                458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Thursday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Friday                   483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sunday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Recife
-
-💬 Programming Languages: 
-Markdown                 14 hrs 38 mins      ███████████████████████░░   91.20 % 
-Go                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-C                        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-🔥 Editors: 
-Obsidian                 14 hrs 38 mins      ███████████████████████░░   91.20 % 
-Sublime Text             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-
-🐱‍💻 Projects: 
-estudos                  9 hrs 35 mins       ███████████████░░░░░░░░░░   59.74 % 
-estudos-5-periodo        5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Estudos-Go               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-hypr                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-sara-site                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-💻 Operating System: 
-Linux                    16 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 12:34:32 UTC
+ Last Updated on 23/05/2026 11:24:53 UTC
 <!--END_SECTION:waka-->
 
 ---
