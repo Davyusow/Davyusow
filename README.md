@@ -5,13 +5,11 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%209%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 151.5 kB Used in GitHub's Storage 
  > 
-> 🏆 468 Contributions in the Year 2026
+> 🏆 470 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,61 +17,12 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-🌆 Daytime                956 commits         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-🌃 Evening                1216 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌙 Night                  1066 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   678 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Tuesday                  528 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Thursday                 583 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sunday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Recife
-
-💬 Programming Languages: 
-Markdown                 15 hrs 21 mins      ████████████████████████░   94.82 % 
-Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🔥 Editors: 
-Obsidian                 15 hrs 5 mins       ███████████████████████░░   93.11 % 
-Sublime Text             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Zed                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-🐱‍💻 Projects: 
-estudos                  15 hrs 5 mins       ███████████████████████░░   93.11 % 
-hypr                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-reactnative-das-ruas     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Estudos-JavaScript       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-💻 Operating System: 
-Linux                    16 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 14:05:38 UTC
+ Last Updated on 29/05/2026 12:55:37 UTC
 <!--END_SECTION:waka-->
 
 ---
