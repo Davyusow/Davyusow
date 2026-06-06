@@ -80,8 +80,8 @@ Linux                    27 hrs 35 mins      ███████████�
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying → JavaScript ⚡️
-  
+<h2> Gruvbox lover ♥️ <br> Studying →  Math∑!!
+
 <br>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=arch,vscodium,bash,md,c,git,haskell,python,java,spring,maven,go,html,css,mysql,docker&perline=8)](https://skillicons.dev) -->
