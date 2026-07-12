@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +67,7 @@ Linux                    3 hrs 59 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 11:17:57 UTC
+ Last Updated on 12/07/2026 11:23:26 UTC
 <!--END_SECTION:waka-->
 
 ---
