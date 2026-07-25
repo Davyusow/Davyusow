@@ -5,6 +5,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%208%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 152.0 kB Used in GitHub's Storage 
@@ -72,7 +74,7 @@ Linux                    15 hrs 31 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 11:54:12 UTC
+ Last Updated on 25/07/2026 11:24:24 UTC
 <!--END_SECTION:waka-->
 
 ---
