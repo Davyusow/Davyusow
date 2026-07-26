@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,27 +46,26 @@ Sunday                   500 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               7 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.44 % 
-Markdown                 6 hrs               ██████████░░░░░░░░░░░░░░░   38.69 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-jsonc                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript               7 hrs 42 mins       ████████████████░░░░░░░░░   64.54 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+shell script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Prisma                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Zed                      9 hrs 48 mins       ████████████████░░░░░░░░░   63.16 % 
-Obsidian                 5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Zed                      11 hrs 20 mins      ████████████████████████░   94.90 % 
+Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🐱‍💻 Projects: 
-sara-mobile              7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.64 % 
-estudos                  5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-trail-blazers            1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+sara-mobile              6 hrs 29 mins       ██████████████░░░░░░░░░░░   54.36 % 
+trail-blazers            3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -74,7 +73,7 @@ Linux                    15 hrs 31 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 11:24:24 UTC
+ Last Updated on 26/07/2026 11:36:25 UTC
 <!--END_SECTION:waka-->
 
 ---
