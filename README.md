@@ -23,9 +23,9 @@
 
 ```text
 🌞 Morning                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                1054 commits        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌃 Evening                1270 commits        ████████░░░░░░░░░░░░░░░░░   32.81 % 
-🌙 Night                  1118 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌆 Daytime                1054 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+🌃 Evening                1271 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌙 Night                  1118 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -35,8 +35,8 @@ Tuesday                  578 commits         ████░░░░░░░�
 Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Sunday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
 
 
@@ -46,26 +46,26 @@ Sunday                   500 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               7 hrs 42 mins       ████████████████░░░░░░░░░   64.54 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-shell script             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Prisma                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               8 hrs 30 mins       ████████████████░░░░░░░░░   64.78 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+shell script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Zed                      11 hrs 20 mins      ████████████████████████░   94.90 % 
-Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Zed                      12 hrs 32 mins      ████████████████████████░   95.37 % 
+Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🐱‍💻 Projects: 
-sara-mobile              6 hrs 29 mins       ██████████████░░░░░░░░░░░   54.36 % 
-trail-blazers            3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+sara-mobile              6 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.41 % 
+trail-blazers            4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
+react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -73,7 +73,7 @@ Linux                    11 hrs 56 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 11:36:25 UTC
+ Last Updated on 27/07/2026 13:20:35 UTC
 <!--END_SECTION:waka-->
 
 ---
