@@ -5,13 +5,11 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2016%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 152.0 kB Used in GitHub's Storage 
  > 
-> 🏆 541 Contributions in the Year 2026
+> 🏆 542 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                1054 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                1271 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
-🌙 Night                  1118 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌞 Morning                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌆 Daytime                1054 commits        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+🌃 Evening                1274 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌙 Night                  1118 commits        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Sunday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   681 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -46,26 +44,50 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               8 hrs 30 mins       ████████████████░░░░░░░░░   64.78 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-shell script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               10 hrs 34 mins      █████████████████░░░░░░░░   67.95 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+shell script             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Zed                      12 hrs 32 mins      ████████████████████████░   95.37 % 
-Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Zed                      14 hrs 39 mins      ████████████████████████░   94.22 % 
+Copilot CLI              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Sublime Text             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🐱‍💻 Projects: 
-sara-mobile              6 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.41 % 
-trail-blazers            4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
-react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+trail-blazers            7 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.16 % 
+sara-mobile              5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
+react-das-ruas           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+alerta-pandemia          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Linux                    13 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 mins (2.3%)
+
+✍️ 220 lines written by AI, 1,310 lines written by hand (14.38% AI-written)
+
+🔤 131,233 Input Tokens, 14,064 Output Tokens
+
+💵 $0.43 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      229 lines           █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 14.38% of written lines came from AI
+📚 Verbose Prompter — average 3,530 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 87.01% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -73,7 +95,7 @@ Linux                    13 hrs 8 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 13:20:35 UTC
+ Last Updated on 28/07/2026 12:09:24 UTC
 <!--END_SECTION:waka-->
 
 ---
