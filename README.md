@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
 
@@ -26,19 +26,19 @@
 ```text
 🌞 Morning                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 🌆 Daytime                1054 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-🌃 Evening                1282 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌙 Night                  1118 commits        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                1282 commits        ████████░░░░░░░░░░░░░░░░░   33.01 % 
+🌙 Night                  1119 commits        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Tuesday                  578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Tuesday                  578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Sunday                   506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Sunday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
 
@@ -48,25 +48,25 @@ Sunday                   506 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-Lua                      4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.43 % 
-fish                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-shell script             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Lua                      4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+TypeScript               4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+fish                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Zed                      6 hrs 11 mins       ███████████████░░░░░░░░░░   60.41 % 
-Sublime Text             3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
-Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Zed                      6 hrs 43 mins       ███████████████░░░░░░░░░░   60.91 % 
+Sublime Text             4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
+Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-trail-blazers            5 hrs 28 mins       █████████████░░░░░░░░░░░░   53.47 % 
-hypr                     3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
-Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-estudos                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+trail-blazers            6 hrs               ██████████████░░░░░░░░░░░   54.47 % 
+hypr                     3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+estudos                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Linux                    10 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +80,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 11:33:47 UTC
+ Last Updated on 02/08/2026 11:27:06 UTC
 <!--END_SECTION:waka-->
 
 ---
