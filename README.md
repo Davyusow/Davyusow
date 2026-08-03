@@ -87,7 +87,7 @@ No AI Coding Activity Tracked This Week
 
 <div align="center">
 
-<h2> Gruvbox lover ♥️ <br> Studying →  Math∑!!
+<h2> Gruvbox lover ♥️ <br> Studying →  GTK & React⚛️!!
 
 <br>
 
