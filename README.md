@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
 
@@ -48,26 +48,26 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 4 hrs 48 mins       ██████████████░░░░░░░░░░░   56.22 % 
-TypeScript               1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Lua                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-fish                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 4 hrs 34 mins       █████████████████░░░░░░░░   66.08 % 
+Lua                      1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.56 % 
-Zed                      2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Sublime Text             1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Obsidian                 4 hrs 29 mins       ████████████████░░░░░░░░░   65.03 % 
+Sublime Text             1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Zed                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 
 🐱‍💻 Projects: 
-estudos                  4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.56 % 
-trail-blazers            2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-hypr                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-pyioutube                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-gotube-gtk               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+estudos                  4 hrs 29 mins       ████████████████░░░░░░░░░   65.03 % 
+hypr                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+pyioutube                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+trail-blazers            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+gotube-gtk               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,7 +81,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 10:48:36 UTC
+ Last Updated on 09/08/2026 10:50:03 UTC
 <!--END_SECTION:waka-->
 
 ---
