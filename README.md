@@ -48,26 +48,25 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 6 hrs 45 mins       █████████████████░░░░░░░░   69.96 % 
-Go                       2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-go mod                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Lua                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-fish                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
+Go                       2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+go mod                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 45 mins       █████████████████░░░░░░░░   69.96 % 
-Zed                      2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Sublime Text             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Obsidian                 5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
+Zed                      2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Sublime Text             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-estudos                  6 hrs 45 mins       █████████████████░░░░░░░░   69.96 % 
-go-foco                  2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-hypr                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Estudos-Go               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-fish                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+estudos                  5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
+go-foco                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+Estudos-Go               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+hypr                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    9 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,7 +80,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 10:46:26 UTC
+ Last Updated on 18/08/2026 10:43:29 UTC
 <!--END_SECTION:waka-->
 
 ---
