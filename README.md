@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
 
@@ -48,25 +48,16 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
-Go                       2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-go mod                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
-Zed                      2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
-Sublime Text             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Obsidian                 6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-estudos                  5 hrs 40 mins       █████████████████░░░░░░░░   67.68 % 
-go-foco                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Estudos-Go               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-hypr                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+estudos                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 10:43:29 UTC
+ Last Updated on 19/08/2026 10:42:56 UTC
 <!--END_SECTION:waka-->
 
 ---
