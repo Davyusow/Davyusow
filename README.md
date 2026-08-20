@@ -48,16 +48,16 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 6 hrs 13 mins       █████████████████████████   100.00 % 
+Markdown                 5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 13 mins       █████████████████████████   100.00 % 
+Obsidian                 5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-estudos                  6 hrs 13 mins       █████████████████████████   100.00 % 
+estudos                  5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 10:42:56 UTC
+ Last Updated on 20/08/2026 10:44:07 UTC
 <!--END_SECTION:waka-->
 
 ---
