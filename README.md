@@ -25,20 +25,20 @@
 
 ```text
 🌞 Morning                490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-🌆 Daytime                1156 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌃 Evening                1416 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌙 Night                  1304 commits        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌆 Daytime                1158 commits        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                1416 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌙 Night                  1304 commits        ███████░░░░░░░░░░░░░░░░░░   29.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 Tuesday                  697 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                619 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Friday                   547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Saturday                 523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Sunday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                619 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 658 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Friday                   549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
 
@@ -48,26 +48,27 @@ Sunday                   582 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ██████████████░░░░░░░░░░░   55.09 % 
-JavaScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+JavaScript               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+XML                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Java                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       ████████████████░░░░░░░░░   63.00 % 
-Zed                      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Obsidian                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.82 % 
+Zed                      3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
+Obsidian                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sublime Text             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-react-das-ruas           7 hrs 48 mins       █████████████████████░░░░   83.31 % 
-estudos                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-hypr                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+react-das-ruas           5 hrs 34 mins       ██████████████░░░░░░░░░░░   57.79 % 
+sara-emprega             2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+estudos                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+hypr                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,7 +82,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 21:12:32 UTC
+ Last Updated on 29/08/2026 15:03:18 UTC
 <!--END_SECTION:waka-->
 
 ---
