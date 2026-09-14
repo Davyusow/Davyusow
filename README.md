@@ -24,21 +24,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌆 Daytime                1187 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌃 Evening                1468 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
-🌙 Night                  1360 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌞 Morning                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+🌆 Daytime                1189 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌃 Evening                1468 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌙 Night                  1360 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   763 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Tuesday                  739 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Monday                   763 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  739 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Wednesday                634 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 Saturday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Sunday                   602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Sunday                   604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -48,23 +48,23 @@ Sunday                   602 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 5 hrs 42 mins       ██████████████████████░░░   88.00 % 
-Java                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 5 hrs 42 mins       █████████████████░░░░░░░░   66.99 % 
+Java                     2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+shell script             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 42 mins       ██████████████████████░░░   88.00 % 
-Zed                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Obsidian                 5 hrs 42 mins       █████████████████░░░░░░░░   66.99 % 
+Zed                      2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
 
 🐱‍💻 Projects: 
-estudos                  5 hrs 42 mins       ██████████████████████░░░   88.00 % 
-sara-emprega             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-react-das-ruas           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+estudos                  5 hrs 42 mins       █████████████████░░░░░░░░   66.99 % 
+sara-emprega             2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+react-das-ruas           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,7 +78,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 14:19:33 UTC
+ Last Updated on 14/09/2026 16:23:20 UTC
 <!--END_SECTION:waka-->
 
 ---
