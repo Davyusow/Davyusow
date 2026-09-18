@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 573 Contributions in the Year 2026
+> 🏆 574 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,20 +24,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-🌆 Daytime                1189 commits        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-🌃 Evening                1470 commits        ████████░░░░░░░░░░░░░░░░░   32.42 % 
-🌙 Night                  1361 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌞 Morning                514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌆 Daytime                1190 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌃 Evening                1470 commits        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌙 Night                  1362 commits        ████████░░░░░░░░░░░░░░░░░   30.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Monday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Tuesday                  741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                635 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Thursday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                635 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Thursday                 677 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Friday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 Sunday                   604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
@@ -48,25 +48,26 @@ Sunday                   604 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Java                     7 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.37 % 
-Markdown                 6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.29 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-shell script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Java                     7 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+Markdown                 4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+YAML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+SQL                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+shell script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Zed                      9 hrs 48 mins       ███████████████░░░░░░░░░░   59.96 % 
-Obsidian                 6 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Zed                      11 hrs 59 mins      ██████████████████░░░░░░░   72.03 % 
+Obsidian                 4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🐱‍💻 Projects: 
-sara-emprega             9 hrs 50 mins       ███████████████░░░░░░░░░░   60.23 % 
-estudos                  6 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-react-das-ruas           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+sara-emprega             10 hrs 35 mins      ████████████████░░░░░░░░░   63.63 % 
+estudos                  4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+backend                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+react-das-ruas           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Linux                    16 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +81,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 14:57:30 UTC
+ Last Updated on 18/09/2026 14:27:57 UTC
 <!--END_SECTION:waka-->
 
 ---
