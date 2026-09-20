@@ -13,7 +13,7 @@
 
 > 📦 152.8 kB Used in GitHub's Storage 
  > 
-> 🏆 574 Contributions in the Year 2026
+> 🏆 575 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,25 +48,25 @@ Sunday                   604 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Java                     8 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.75 % 
-YAML                     3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-shell script             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Java                     8 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.18 % 
+YAML                     3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+shell script             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Zed                      13 hrs 32 mins      █████████████████████░░░░   83.46 % 
-Obsidian                 2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Zed                      13 hrs 37 mins      █████████████████████░░░░   83.02 % 
+Obsidian                 2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🐱‍💻 Projects: 
-sara-emprega             12 hrs 16 mins      ███████████████████░░░░░░   75.69 % 
-estudos                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-backend                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+sara-emprega             12 hrs 22 mins      ███████████████████░░░░░░   75.46 % 
+estudos                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+backend                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Linux                    16 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,7 +80,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 13:55:56 UTC
+ Last Updated on 20/09/2026 14:11:33 UTC
 <!--END_SECTION:waka-->
 
 ---
