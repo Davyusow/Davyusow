@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -48,32 +48,32 @@ Sunday                   612 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 9 hrs 24 mins       ███████████████████████░░   92.85 % 
-Java                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Markdown                 10 hrs 23 mins      ████████████████████████░   94.35 % 
+Java                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Obsidian                 8 hrs 42 mins       █████████████████████░░░░   85.87 % 
-Copilot CLI              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Zed                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Obsidian                 9 hrs 45 mins       ██████████████████████░░░   88.69 % 
+Copilot CLI              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Zed                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-estudos                  9 hrs 24 mins       ███████████████████████░░   92.85 % 
-sara-emprega             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+estudos                  10 hrs 23 mins      ████████████████████████░   94.35 % 
+sara-emprega             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Linux                    10 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (14.35%)
+⏱ AI Coding Time: 1 hr 27 mins (13.21%)
 
-✍️ 0 lines written by AI, 276 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 299 lines written by hand (0.0% AI-written)
 
 🔤 13,358,900 Input Tokens, 64,429 Output Tokens
 
@@ -96,7 +96,7 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 14:26:15 UTC
+ Last Updated on 27/09/2026 15:10:14 UTC
 <!--END_SECTION:waka-->
 
 ---
