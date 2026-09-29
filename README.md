@@ -13,7 +13,7 @@
 
 > 📦 152.8 kB Used in GitHub's Storage 
  > 
-> 🏆 575 Contributions in the Year 2026
+> 🏆 576 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,31 +48,31 @@ Sunday                   630 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 10 hrs 23 mins      ████████████████████████░   97.86 % 
-Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 11 hrs 19 mins      █████████████████████████   98.03 % 
+Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Obsidian                 9 hrs 45 mins       ███████████████████████░░   91.99 % 
-Copilot CLI              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Obsidian                 10 hrs 41 mins      ███████████████████████░░   92.64 % 
+Copilot CLI              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🐱‍💻 Projects: 
-estudos                  10 hrs 23 mins      ████████████████████████░   97.86 % 
-sara-emprega             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+estudos                  11 hrs 19 mins      █████████████████████████   98.03 % 
+sara-emprega             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Linux                    10 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (13.7%)
+⏱ AI Coding Time: 1 hr 27 mins (12.59%)
 
-✍️ 0 lines written by AI, 297 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 359 lines written by hand (0.0% AI-written)
 
 🔤 14,542,600 Input Tokens, 64,429 Output Tokens
 
@@ -95,7 +95,7 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 18:10:04 UTC
+ Last Updated on 29/09/2026 16:31:44 UTC
 <!--END_SECTION:waka-->
 
 ---
