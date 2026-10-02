@@ -5,13 +5,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 152.8 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
 > 🏆 578 Contributions in the Year 2026
  > 
@@ -48,22 +48,22 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 5 hrs 37 mins       █████████████████████░░░░   84.96 % 
-Java                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Markdown                 6 hrs 50 mins       ████████████████████░░░░░   81.19 % 
+Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 36 mins       █████████████████████░░░░   84.72 % 
-Zed                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Obsidian                 6 hrs 49 mins       ████████████████████░░░░░   81.01 % 
+Zed                      1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-estudos                  5 hrs 37 mins       █████████████████████░░░░   84.96 % 
-sara-emprega             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+estudos                  6 hrs 50 mins       ████████████████████░░░░░   81.19 % 
+sara-emprega             1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 
 💻 Operating System: 
-Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 17:03:45 UTC
+ Last Updated on 02/10/2026 16:17:21 UTC
 <!--END_SECTION:waka-->
 
 ---
