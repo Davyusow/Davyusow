@@ -48,22 +48,21 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 6 hrs 50 mins       ████████████████████░░░░░   81.19 % 
-Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
+Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 49 mins       ████████████████████░░░░░   81.01 % 
-Zed                      1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Obsidian                 6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
+Zed                      1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 🐱‍💻 Projects: 
-estudos                  6 hrs 50 mins       ████████████████████░░░░░   81.19 % 
-sara-emprega             1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+estudos                  6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
+sara-emprega             1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 💻 Operating System: 
-Linux                    8 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +76,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 16:17:21 UTC
+ Last Updated on 03/10/2026 14:44:49 UTC
 <!--END_SECTION:waka-->
 
 ---
