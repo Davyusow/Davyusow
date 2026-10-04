@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -48,21 +48,21 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
-Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
+Java                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
-Zed                      1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Obsidian                 5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
+Zed                      1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 
 🐱‍💻 Projects: 
-estudos                  6 hrs 20 mins       ████████████████████░░░░░   79.99 % 
-sara-emprega             1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+estudos                  5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
+sara-emprega             1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 
 💻 Operating System: 
-Linux                    7 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,7 +76,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 14:44:49 UTC
+ Last Updated on 04/10/2026 15:20:40 UTC
 <!--END_SECTION:waka-->
 
 ---
