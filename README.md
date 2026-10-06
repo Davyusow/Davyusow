@@ -24,21 +24,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                1255 commits        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌃 Evening                1570 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌙 Night                  1476 commits        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                1255 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+🌃 Evening                1570 commits        ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌙 Night                  1477 commits        ████████░░░░░░░░░░░░░░░░░   30.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   811 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  823 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Wednesday                668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 719 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Saturday                 578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Monday                   811 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Tuesday                  824 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Wednesday                668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Thursday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Friday                   613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Sunday                   653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 
@@ -48,21 +48,21 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
-Java                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 3 hrs 16 mins       █████████████████░░░░░░░░   67.33 % 
+Java                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
-Zed                      1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Obsidian                 3 hrs 16 mins       █████████████████░░░░░░░░   67.33 % 
+Zed                      1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
 
 🐱‍💻 Projects: 
-estudos                  5 hrs 14 mins       ███████████████████░░░░░░   76.79 % 
-sara-emprega             1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+estudos                  3 hrs 16 mins       █████████████████░░░░░░░░   67.33 % 
+sara-emprega             1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
 
 💻 Operating System: 
-Linux                    6 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,7 +76,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 19:17:58 UTC
+ Last Updated on 06/10/2026 16:46:06 UTC
 <!--END_SECTION:waka-->
 
 ---
