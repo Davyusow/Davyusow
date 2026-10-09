@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -48,23 +48,22 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       ███████████████████░░░░░░   75.57 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript               2 hrs 16 mins       ██████████████░░░░░░░░░░░   54.94 % 
+Markdown                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 23 mins       ███████████████████░░░░░░   75.57 % 
-Zed                      1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Zed                      2 hrs 42 mins       ████████████████░░░░░░░░░   65.43 % 
+Obsidian                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 🐱‍💻 Projects: 
-estudos                  3 hrs 23 mins       ███████████████████░░░░░░   75.57 % 
-sara-emprega             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-sara-emprega-mobile      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+sara-emprega-mobile      2 hrs 42 mins       ████████████████░░░░░░░░░   65.43 % 
+estudos                  1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 💻 Operating System: 
-Linux                    4 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 17:25:14 UTC
+ Last Updated on 09/10/2026 17:00:38 UTC
 <!--END_SECTION:waka-->
 
 ---
