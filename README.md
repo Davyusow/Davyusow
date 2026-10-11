@@ -24,20 +24,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                1277 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌃 Evening                1611 commits        ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌙 Night                  1532 commits        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌞 Morning                586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                1278 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌃 Evening                1613 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  1532 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   830 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  859 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Monday                   830 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Tuesday                  859 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 Wednesday                683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 739 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Thursday                 739 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Friday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Saturday                 593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Saturday                 596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
@@ -48,22 +48,22 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ███████████████░░░░░░░░░░   60.17 % 
-Markdown                 1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript               3 hrs 38 mins       ████████████████░░░░░░░░░   64.99 % 
+Markdown                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+TSConfig                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Image (svg)              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Zed                      2 hrs 42 mins       ██████████████████░░░░░░░   71.65 % 
-Obsidian                 1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+Zed                      4 hrs 31 mins       ████████████████████░░░░░   80.89 % 
+Obsidian                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 
 🐱‍💻 Projects: 
-sara-emprega-mobile      2 hrs 42 mins       ██████████████████░░░░░░░   71.65 % 
-estudos                  1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+sara-emprega-mobile      4 hrs 31 mins       ████████████████████░░░░░   80.89 % 
+estudos                  1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 15:53:09 UTC
+ Last Updated on 11/10/2026 16:19:19 UTC
 <!--END_SECTION:waka-->
 
 ---
