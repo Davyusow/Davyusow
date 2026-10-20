@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -48,19 +48,19 @@ Sunday                   902 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 24 mins             ███████████████░░░░░░░░░░   61.82 % 
-TypeScript               14 mins             ██████████░░░░░░░░░░░░░░░   38.18 % 
+Markdown                 1 hr 12 mins        █████████████████████░░░░   82.85 % 
+TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 
 🔥 Editors: 
-Obsidian                 24 mins             ███████████████░░░░░░░░░░   61.82 % 
-Zed                      14 mins             ██████████░░░░░░░░░░░░░░░   38.18 % 
+Obsidian                 1 hr 12 mins        █████████████████████░░░░   82.85 % 
+Zed                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 
 🐱‍💻 Projects: 
-estudos                  24 mins             ███████████████░░░░░░░░░░   61.82 % 
-sara-emprega-mobile      14 mins             ██████████░░░░░░░░░░░░░░░   38.18 % 
+estudos                  1 hr 12 mins        █████████████████████░░░░   82.85 % 
+sara-emprega-mobile      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,7 +74,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 17:00:17 UTC
+ Last Updated on 20/10/2026 15:02:46 UTC
 <!--END_SECTION:waka-->
 
 ---
