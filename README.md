@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -24,9 +24,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                840 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌞 Morning                841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 🌆 Daytime                1635 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-🌃 Evening                2144 commits        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 Evening                2144 commits        ████████░░░░░░░░░░░░░░░░░   31.62 % 
 🌙 Night                  2160 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -35,10 +35,10 @@
 Monday                   1086 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 Tuesday                  1312 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 Wednesday                861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Thursday                 949 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Thursday                 950 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 Friday                   863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 Saturday                 783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Sunday                   925 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Sunday                   925 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -48,16 +48,16 @@ Sunday                   925 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 26 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+estudos                  26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,7 +71,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 21:14:43 UTC
+ Last Updated on 05/11/2026 18:02:23 UTC
 <!--END_SECTION:waka-->
 
 ---
