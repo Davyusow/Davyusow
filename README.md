@@ -48,19 +48,19 @@ Sunday                   914 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        █████████████████████████   99.80 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 2 hrs 53 mins       █████████████████████████   99.86 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 3 mins        █████████████████████████   99.80 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Obsidian                 2 hrs 53 mins       █████████████████████████   99.86 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-estudos                  2 hrs 3 mins        █████████████████████████   99.80 % 
-sara-emprega             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+estudos                  2 hrs 53 mins       █████████████████████████   99.86 % 
+sara-emprega             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,7 +74,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 17:43:10 UTC
+ Last Updated on 14/11/2026 16:36:20 UTC
 <!--END_SECTION:waka-->
 
 ---
