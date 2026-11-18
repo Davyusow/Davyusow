@@ -48,19 +48,22 @@ Sunday                   914 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 4 hrs 56 mins       █████████████████████████   99.92 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 4 hrs 32 mins       ████████████████████░░░░░   81.96 % 
+Java                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 56 mins       █████████████████████████   99.92 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Obsidian                 4 hrs 32 mins       ████████████████████░░░░░   81.96 % 
+Zed                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
 
 🐱‍💻 Projects: 
-estudos                  4 hrs 56 mins       █████████████████████████   99.92 % 
-sara-emprega             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+estudos                  4 hrs 32 mins       ████████████████████░░░░░   81.96 % 
+sara-emprega             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Linux                    4 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 19:09:41 UTC
+ Last Updated on 18/11/2026 18:51:25 UTC
 <!--END_SECTION:waka-->
 
 ---
