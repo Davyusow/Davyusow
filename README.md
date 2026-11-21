@@ -48,22 +48,22 @@ Sunday                   937 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 2 hrs 52 mins       ████████████████░░░░░░░░░   63.06 % 
-Java                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.67 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
+Java                     1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
+XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 52 mins       ████████████████░░░░░░░░░   63.06 % 
-Zed                      1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   36.94 % 
+Obsidian                 2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
+Zed                      1 hr 41 mins        ███████████░░░░░░░░░░░░░░   45.12 % 
 
 🐱‍💻 Projects: 
-estudos                  2 hrs 52 mins       ████████████████░░░░░░░░░   63.06 % 
-sara-emprega             1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   35.80 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+estudos                  2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
+sara-emprega             1 hr 38 mins        ███████████░░░░░░░░░░░░░░   43.73 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 18:35:36 UTC
+ Last Updated on 21/11/2026 17:26:45 UTC
 <!--END_SECTION:waka-->
 
 ---
