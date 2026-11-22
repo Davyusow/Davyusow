@@ -5,7 +5,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2017%20mins-blue?style=flat)
 
@@ -48,22 +48,22 @@ Sunday                   937 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
-Java                     1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Java                     1 hr 27 mins        ██████████████████░░░░░░░   73.84 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
-Zed                      1 hr 41 mins        ███████████░░░░░░░░░░░░░░   45.12 % 
+Zed                      1 hr 42 mins        ██████████████████████░░░   86.01 % 
+Obsidian                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 
 🐱‍💻 Projects: 
-estudos                  2 hrs 3 mins        ██████████████░░░░░░░░░░░   54.88 % 
-sara-emprega             1 hr 38 mins        ███████████░░░░░░░░░░░░░░   43.73 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+sara-emprega             1 hr 39 mins        █████████████████████░░░░   83.38 % 
+estudos                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +77,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Davyusow/Davyusow/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 17:26:45 UTC
+ Last Updated on 22/11/2026 17:49:03 UTC
 <!--END_SECTION:waka-->
 
 ---
